@@ -152,7 +152,7 @@ padding: 15px 20px;
 .left-side img{
     /* width:80%; */
     max-height: auto;
-    margin-left: 20px;
+    /* margin-left: 20px; */
 }
 .right-side,.a{
     margin-right: 20px;
@@ -240,6 +240,7 @@ white-space: wrap;
     text-align: center;
     justify-content: center;
     align-items: center;
+    margin-bottom: 20px;
 }
   /* collection-side  */
   .pupolar-collection {
@@ -271,7 +272,7 @@ width:fit-content;
     align-items: center;
 }
   .bottom-section img{
-      /* width: 50%; */
+      width: 90%;
   }
   .paragraph{
       max-width: 300px;
